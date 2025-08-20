@@ -35,10 +35,9 @@ This project converts temperatures between *Celsius ↔ Fahrenheit*.
 ##  Live Demo  
  [Click Here to View](https://anjalibehara.github.io/OIBSIP_web_developement_-_designing_task3/)  
  
+## Output Screenshot
+[Temperature Converter Preview](temp.png)
 
-## output  Screenshot  
-
-[output] (temp.png)
 
 
 ## Future Enhancements   
